@@ -36,7 +36,7 @@ Projet pédagogique de data science sur `synthetic_personal_finance_dataset.csv`
 ## Lancer le projet
 ```bash
 pip install -r requirements.txt
-# placer le CSV dans data/synthetic_personal_finance_dataset.csv
+# le CSV est fourni dans data/synthetic_personal_finance_dataset.csv
 jupyter lab personal_finance_ml.ipynb
 ```
 
